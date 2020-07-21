@@ -1,4 +1,4 @@
 # -respire-
 
 The breathability and filtration efficiency folders contain the 3D model used to execute the experiments for mask evaluation. 
-For a more complementary material access XXXX.
+For more information access XXXX.
